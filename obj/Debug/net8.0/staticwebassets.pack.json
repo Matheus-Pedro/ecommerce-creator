@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "/home/matheus/Área de trabalho/gitclones/ecommerce-creator/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/home/matheus/Área de trabalho/gitclones/ecommerce-creator/obj/Debug/net8.0/compressed/pmvtaia2e0.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/home/matheus/Área de trabalho/gitclones/ecommerce-creator/obj/Debug/net8.0/scopedcss/bundle/ecommerce-creator.styles.css",
+      "PackagePath": "staticwebassets/ecommerce-creator.styles.css"
+    },
+    {
+      "Id": "/home/matheus/Área de trabalho/gitclones/ecommerce-creator/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/home/matheus/Área de trabalho/gitclones/ecommerce-creator/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/matheus/Área de trabalho/gitclones/ecommerce-creator/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/matheus/Área de trabalho/gitclones/ecommerce-creator/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/home/matheus/Área de trabalho/gitclones/ecommerce-creator/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/home/matheus/Área de trabalho/gitclones/ecommerce-creator/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/matheus/Área de trabalho/gitclones/ecommerce-creator/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.ecommerce-creator.props",
+      "PackagePath": "build\\ecommerce-creator.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ecommerce-creator.props",
+      "PackagePath": "buildMultiTargeting\\ecommerce-creator.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ecommerce-creator.props",
+      "PackagePath": "buildTransitive\\ecommerce-creator.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.ecommerce-creator.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
