@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IkJuqpoAIqzpe52pPdk6OqtPsLKeyiRLecqt4ug0/cLsPb+as4bh73VBNYV2Hquuu5RJp5jnY8dU3+FNAPDGVQ==",
+  "dgSpecHash": "4ocqaElHOzjmTAhczZSLAtk+fAcEB/UHc4uCa79E1ZJyhTRR4yeyHLInsKHv3wrOxFlIQYCHSWrCfjCriAG/fA==",
   "success": true,
   "projectFilePath": "/home/matheus/Área de trabalho/gitclones/ecommerce-creator/ecommerce-creator.csproj",
   "expectedPackageFiles": [
@@ -22,6 +22,8 @@
     "/home/matheus/.nuget/packages/microsoft.extensions.fileproviders.abstractions/8.0.0/microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
     "/home/matheus/.nuget/packages/microsoft.extensions.fileproviders.physical/8.0.0/microsoft.extensions.fileproviders.physical.8.0.0.nupkg.sha512",
     "/home/matheus/.nuget/packages/microsoft.extensions.filesystemglobbing/8.0.0/microsoft.extensions.filesystemglobbing.8.0.0.nupkg.sha512",
+    "/home/matheus/.nuget/packages/microsoft.extensions.localization/8.0.8/microsoft.extensions.localization.8.0.8.nupkg.sha512",
+    "/home/matheus/.nuget/packages/microsoft.extensions.localization.abstractions/8.0.8/microsoft.extensions.localization.abstractions.8.0.8.nupkg.sha512",
     "/home/matheus/.nuget/packages/microsoft.extensions.logging/8.0.1/microsoft.extensions.logging.8.0.1.nupkg.sha512",
     "/home/matheus/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.2/microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
     "/home/matheus/.nuget/packages/microsoft.extensions.options/8.0.2/microsoft.extensions.options.8.0.2.nupkg.sha512",
@@ -30,6 +32,7 @@
     "/home/matheus/.nuget/packages/microsoft.jsinterop.webassembly/8.0.10/microsoft.jsinterop.webassembly.8.0.10.nupkg.sha512",
     "/home/matheus/.nuget/packages/microsoft.net.illink.tasks/8.0.10/microsoft.net.illink.tasks.8.0.10.nupkg.sha512",
     "/home/matheus/.nuget/packages/microsoft.net.sdk.webassembly.pack/8.0.10/microsoft.net.sdk.webassembly.pack.8.0.10.nupkg.sha512",
+    "/home/matheus/.nuget/packages/mudblazor/7.15.0/mudblazor.7.15.0.nupkg.sha512",
     "/home/matheus/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512",
     "/home/matheus/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.10/microsoft.netcore.app.runtime.mono.browser-wasm.8.0.10.nupkg.sha512"
   ],

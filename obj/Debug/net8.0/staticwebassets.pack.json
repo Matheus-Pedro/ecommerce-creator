@@ -9,20 +9,8 @@
       "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
     },
     {
-      "Id": "/home/matheus/Área de trabalho/gitclones/ecommerce-creator/obj/Debug/net8.0/scopedcss/bundle/ecommerce-creator.styles.css",
-      "PackagePath": "staticwebassets/ecommerce-creator.styles.css"
-    },
-    {
       "Id": "/home/matheus/Área de trabalho/gitclones/ecommerce-creator/wwwroot/css/app.css",
       "PackagePath": "staticwebassets/css/app.css"
-    },
-    {
-      "Id": "/home/matheus/Área de trabalho/gitclones/ecommerce-creator/wwwroot/css/bootstrap/bootstrap.min.css",
-      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
-    },
-    {
-      "Id": "/home/matheus/Área de trabalho/gitclones/ecommerce-creator/wwwroot/css/bootstrap/bootstrap.min.css.map",
-      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
     },
     {
       "Id": "/home/matheus/Área de trabalho/gitclones/ecommerce-creator/wwwroot/favicon.png",
@@ -35,10 +23,6 @@
     {
       "Id": "/home/matheus/Área de trabalho/gitclones/ecommerce-creator/wwwroot/index.html",
       "PackagePath": "staticwebassets/index.html"
-    },
-    {
-      "Id": "/home/matheus/Área de trabalho/gitclones/ecommerce-creator/wwwroot/sample-data/weather.json",
-      "PackagePath": "staticwebassets/sample-data/weather.json"
     },
     {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.ecommerce-creator.props",
