@@ -1,4 +1,5 @@
 @using MudBlazor
+@inject ISnackbar Snackbar
 
 <MudItem Class="d-flex align-center justify-center" xs="12" sm="6" md="4" lg="3" xl="2">    
     <MudCard Class="mud-width-full">
@@ -6,10 +7,10 @@
         <MudCardContent>
             <MudText Typo="Typo.h6" Class="truncate-three-lines">@productTitle</MudText>
             <MudRating SelectedValue="@productRating" ReadOnly="true" />
-            <MudText Typo="Typo.h4"><b>R$ @productPrice</b></MudText>
+            <MudText Typo="Typo.h5"><b>R$ @productPrice</b></MudText>
         </MudCardContent>
         <MudCardActions Class="align-center justify-center ma-4">
-            <MudButton Class="mud-width-full" Variant="Variant.Filled" Color="Color.Primary">Mover para o Carrinho</MudButton>
+            <MudButton Class="mud-width-full" Variant="Variant.Filled" Color="Color.Primary"  @onclick="@OnClick">Mover para o Carrinho</MudButton>
         </MudCardActions>
     </MudCard>
 </MudItem>
@@ -24,4 +25,8 @@
     [Parameter]
     public int productRating { get; set; }
 
+    private void OnClick()
+    {
+  
+    }
 }
