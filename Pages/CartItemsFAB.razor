@@ -1,0 +1,17 @@
+@using MudBlazor
+
+@if (numberOfCartItems >= 1)
+{
+    <MudBadge Origin="Origin.BottomLeft" Content="@numberOfCartItems" Color="Color.Secondary" Overlap="true"
+    Bordered="false" Class="mx-6 my-4">
+    <MudFab Color="Color.Primary" StartIcon="@Icons.Material.Filled.ShoppingCart" DropShadow="true" Class="" />
+</MudBadge>
+}
+else
+{
+    <MudFab Color="Color.Primary" StartIcon="@Icons.Material.Filled.ShoppingCart" DropShadow="true" Class="" />
+}
+
+@code {
+    public int numberOfCartItems { get; set; }
+}
