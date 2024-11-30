@@ -12,3 +12,4 @@ namespace ecommerce_creator.Models
         public int Stock { get; set; }
     }
 }
+
