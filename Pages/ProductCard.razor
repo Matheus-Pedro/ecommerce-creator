@@ -1,7 +1,7 @@
 @using MudBlazor
 @inject ISnackbar Snackbar
 
-<MudItem Class="d-flex align-center justify-center" xs="12" sm="6" md="4" lg="3" xl="2">    
+<MudItem Class="d-flex align-center justify-center" xs="12" sm="6" md="4" lg="3" xl="2">
     <MudCard Class="mud-width-full">
         <MudCardMedia Image="@productImageLink" />
         <MudCardContent>
@@ -10,7 +10,8 @@
             <MudText Typo="Typo.h5"><b>R$ @productPrice</b></MudText>
         </MudCardContent>
         <MudCardActions Class="align-center justify-center ma-4">
-            <MudButton Class="mud-width-full" Variant="Variant.Filled" Color="Color.Primary"  @onclick="@OnClick">Mover para o Carrinho</MudButton>
+            <MudButton Class="mud-width-full" Variant="Variant.Filled" Color="Color.Primary" @onclick="@OnClick">Mover
+                para o Carrinho</MudButton>
         </MudCardActions>
     </MudCard>
 </MudItem>

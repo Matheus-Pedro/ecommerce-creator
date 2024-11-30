@@ -37,6 +37,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L05hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/matheus/Área de trabalho/gitclones/ecommerce-creator/Pages/AdminHome.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW5Ib21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/matheus/Área de trabalho/gitclones/ecommerce-creator/Pages/AdminProduct.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW5Qcm9kdWN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/matheus/Área de trabalho/gitclones/ecommerce-creator/Pages/CartItemsFAB.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2FydEl0ZW1zRkFCLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
